@@ -1,10 +1,8 @@
 # Cloud-Connected-Package-Locker
 
-## Completed in May of 2022
-
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/02df1184-e795-4c25-958a-42a6f51eb5d8" width="700">
+  <img src="https://github.com/user-attachments/assets/02df1184-e795-4c25-958a-42a6f51eb5d8" width="200">
   <br>
   <em>Figure 1: Main gameplay screen of the Networked Wordle Game.</em>
 </p>
@@ -27,3 +25,4 @@ Schematic of Hardware:
 
 <img width="883" height="607" alt="image" src="https://github.com/user-attachments/assets/b138aa1d-e1be-4682-a8ae-3e53b6f9d96c" />
 
+## Completed in May of 2022
