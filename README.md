@@ -25,10 +25,11 @@ Functionality:
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/deed5a0f-b101-400c-b91e-410a811a4672", width="300">
+  <img src="https://github.com/user-attachments/assets/0505b04c-75d4-43c3-bb96-6f3c7f492474", width="300">
   <br>
   <em>Bottom-up view of the magnetic reed switch and the servo motor.</em>
 </p>
+
 
 
 Circuit Schematic of Hardware: 
