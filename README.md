@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/02df1184-e795-4c25-958a-42a6f51eb5d8" width="200">
+  <img src="https://github.com/user-attachments/assets/02df1184-e795-4c25-958a-42a6f51eb5d8" width="300">
   <br>
   <em>Figure 1: Main gameplay screen of the Networked Wordle Game.</em>
 </p>
