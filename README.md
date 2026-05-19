@@ -24,6 +24,11 @@ Functionality:
   <em>Raspberry Pi connected inside the locker.</em>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/deed5a0f-b101-400c-b91e-410a811a4672">
+  <br>
+  <em>Bottom-up view of the magnetic reed switch and the servo motor.</em>
+</p>
 
 
 Circuit Schematic of Hardware: 
