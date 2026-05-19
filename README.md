@@ -2,6 +2,16 @@
 
 ## Completed in May of 2022
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/02df1184-e795-4c25-958a-42a6f51eb5d8" width="700">
+  <br>
+  <em>Figure 1: Main gameplay screen of the Networked Wordle Game.</em>
+</p>
+
+<!-- <img width="3024" alt="main" src="https://github.com/user-attachments/assets/02df1184-e795-4c25-958a-42a6f51eb5d8" /> -->
+
+
 The purpose of this project was to design a cloud-connected smart locker that only opened once the proper code was remotely entered into it from a smart phone, or if the proper code was entered into it via its keypad. I worked in a team of 6 for this project. 
 
 The hardware included a Raspberry Pi Zero W, servo motor, matrix keypad, magnetic reed switch and a 7-segment display. 
