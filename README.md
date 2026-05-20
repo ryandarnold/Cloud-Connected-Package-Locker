@@ -15,7 +15,7 @@ Functionality:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/02df1184-e795-4c25-958a-42a6f51eb5d8" width="300">
   <br>
-  <em>Front of the cloud-connected locker.</em>
+  <em>Front of the cloud-connected locker. I laser cut plywood so the 7-segment display and Keypad would fit. </em>
 </p>
 
 <p align="center">
